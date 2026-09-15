@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    margin-top: 64px;
+}
+
+main {
+    background-color: white;
+    padding: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+img {
+    width: 150px; 
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 50%;
+}
+
+.buttom {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
